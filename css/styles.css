@@ -4,12 +4,14 @@
 
 /* Components */
 @import "components/status-bar.css";
+@import "components/nav-bar.css";
 
 /* Screen */
 @import "screen/login.css";
 
 body {
   font-family: "Open Sans", sans-serif;
+  height: 1000vh;
 }
 
 
